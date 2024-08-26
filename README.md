@@ -1,6 +1,6 @@
 # Shadcn
 
-This repository provides accessibility for shadcn components in Reflex.
+This repository aims to enhance the accessibility of shadcn components in Reflex. Each directory should contain a standalone Python package for individual components. Additionally, specific tailwind configuration with instructions should be included in either the README.md file or a Python file (tailwindconfig.py). The tailwind configuration should be presented as a dictionary for easy copy-pasting.
 
 Currently available (**to be updated when the wrapping of a component finishes**):
 
